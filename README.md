@@ -18,3 +18,15 @@ Welcome to my repository! Here, I track and store my solutions to various LeetCo
 ---
 Easy (🟢), Medium (🟡), Hard (🔴) 
 *Note: This repository is continuously updated as I solve more problems.*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Shako911/LeetCode-Java/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Shako911/LeetCode-Java/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
