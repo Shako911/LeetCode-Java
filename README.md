@@ -13,7 +13,9 @@ Welcome to my repository! Here, I track and store my solutions to various LeetCo
 
 | # | Problem Name | Difficulty |  
 |---|---|---|---|
+
 | 0001 | Two Sum | 🟢 Easy |
+
 | 0002 | ... | 🟢 Easy |
 ---
 Easy (🟢), Medium (🟡), Hard (🔴) 
