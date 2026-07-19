@@ -17,6 +17,7 @@ Welcome to my repository! Here, I track and store my solutions to various LeetCo
 | 0009 | Palidrome Number | 🟢 Easy |
 | 0013 |  Roman to Integer | 🟢 Easy |
 | 0014 |  Longest Common Prefix | 🟢 Easy |
+| 2235 |  Add Two Integers | 🟢 Easy |
 ---
 Easy (🟢), Medium (🟡), Hard (🔴) 
 *Note: This repository is continuously updated as I solve more problems.*
