@@ -38,6 +38,7 @@ Easy (🟢), Medium (🟡), Hard (🔴)
 | ------- |
 | [0009-palindrome-number](https://github.com/Shako911/LeetCode-Java/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Shako911/LeetCode-Java/tree/master/0013-roman-to-integer) |
+| [2235-add-two-integers](https://github.com/Shako911/LeetCode-Java/tree/master/2235-add-two-integers) |
 ## String
 |  |
 | ------- |
